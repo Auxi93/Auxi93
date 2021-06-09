@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="230">
 
 
-Hi, I'm Auxi! I'm a frontend developer who is passionate about creating web pages and be part of this community.
+Hi, I'm Auxi! I'm a frontend developer who is passionate about creating web pages and being part of this community.
 
 ### Languages and Tools:
 
