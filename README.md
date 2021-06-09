@@ -15,7 +15,7 @@ Languages and Tools:
 - <a href="http://www.inerciadesign.com">Inercia Design</a>
 - <a href="https://www.solspanishcenter.com/en/new">SOL Center</a>
 
-I’m interested in in learning Python and  SEO
+I’m interested in learning Python and  SEO
  
 Find me around the web:
 - Sharing updates on <a href="https://www.linkedin.com/in/auxiliadora-lopez-perez-de-gracia//">LinkedIn</a> 
