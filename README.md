@@ -37,7 +37,7 @@ Hi, I'm Auxi! I'm a frontend developer who is passionate about creating web page
 - How to reach me <a href="mailto:auxilpge@gmail.com">Contact</a>
 
 
-### I’m interested in learning Python and  SEO
+### I’m interested in learning Bootstrap and  SEO
 
 
 ---
