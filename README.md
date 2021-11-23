@@ -15,7 +15,7 @@ Hi, I'm Auxi! I'm a frontend developer who is passionate about creating web page
 <a href="https://github.com/Auxi93/DemosJS"/><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/></a>
 <a href="https://github.com/Auxi93/DemoWhatsapp"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/></a>
 <a href="https://github.com/Auxi93/DemoWhatsapp"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23323330.svg?&style=flat-square&logo=ypeScript&logoColor=white"/></a>
-<a href="https://github.com/Auxi93/DemoWhatsapp"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23323330.svg?&style=flat-square&logo=ypeScript&logoColor=pink"/></a>
+<a href="https://github.com/Auxi93/Bootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23323330.svg?&style=flat-square&logo=ypeScript&logoColor=pink"/></a>
 
 ### IDE:
 
