@@ -27,7 +27,7 @@ Hi, I'm Auxi! I'm a frontend developer who is passionate about creating web page
 - <a href="http://www.inerciadesign.com">Inercia Design</a>
 - <a href="https://www.solspanishcenter.com/en/new">SOL Center</a>
 - <a href="http://www.azapoynter.com/">Aza Poynter</a>
-- <a href=["https://mariacastellano.000webhostapp.com/index.html](https://mariacastellanosan.000webhostapp.com/index.html">María Castellano</a>
+- <a href="https://mariacastellanosan.000webhostapp.com/index.html">María Castellano</a>
 - <a href="http://www.santiagogonzalez.es/">Santiago González</a>
 
 
